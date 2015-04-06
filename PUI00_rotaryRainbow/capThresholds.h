@@ -1,0 +1,15 @@
+#define E00_TOU_THRESH	0x37
+#define	E00_REL_THRESH	0x30
+
+#define E01_TOU_THRESH	0x38
+#define	E01_REL_THRESH	0x30
+
+#define E02_TOU_THRESH	0x25
+#define	E02_REL_THRESH	0x20
+
+#define E03_TOU_THRESH	0x37
+#define	E03_REL_THRESH	0x30
+
+#define E04_TOU_THRESH	0x37
+#define	E04_REL_THRESH	0x30
+
